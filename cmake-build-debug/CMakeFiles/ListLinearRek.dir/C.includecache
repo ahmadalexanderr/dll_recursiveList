@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/macbookpro/Documents/OneDrive - Universitas Diponegoro/Alexander/INFORMATIKA_2016/Semester_9/struktur_data/praktikum/Rekursif/ListLinearRekursif/LLR.h
+stdlib.h
+-
+stdio.h
+-
+boolean.h
+/Users/macbookpro/Documents/OneDrive - Universitas Diponegoro/Alexander/INFORMATIKA_2016/Semester_9/struktur_data/praktikum/Rekursif/ListLinearRekursif/boolean.h
+curses.h
+/Users/macbookpro/Documents/OneDrive - Universitas Diponegoro/Alexander/INFORMATIKA_2016/Semester_9/struktur_data/praktikum/Rekursif/ListLinearRekursif/curses.h
+
+/Users/macbookpro/Documents/OneDrive - Universitas Diponegoro/Alexander/INFORMATIKA_2016/Semester_9/struktur_data/praktikum/Rekursif/ListLinearRekursif/boolean.h
+
+/Users/macbookpro/Documents/OneDrive - Universitas Diponegoro/Alexander/INFORMATIKA_2016/Semester_9/struktur_data/praktikum/Rekursif/ListLinearRekursif/mLLR.c
+LLR.h
+/Users/macbookpro/Documents/OneDrive - Universitas Diponegoro/Alexander/INFORMATIKA_2016/Semester_9/struktur_data/praktikum/Rekursif/ListLinearRekursif/LLR.h
+
